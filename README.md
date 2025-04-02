@@ -26,19 +26,15 @@ To explore the Nobel Prize dataset and run the analysis, follow these steps:
 ### 🔧 Installation  
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/5eraaa/nobel-prize-analysis.git
+git clone https://github.com/5eraaa/Nobel-Prize-winners.git
 ```
 2.**Navigate to the project folder**
 ```bash
-cd nobel-prize-analysis
+cd Nobel-Prize-winners
 ```
 3.**Install required dependencies**
 ```bash
    pip install pandas seaborn numpy matplotlib
-```
-4.**Install required dependencies**
-```bash
-pip install pandas seaborn numpy matplotlib
 ```
 
 📂 Dataset
