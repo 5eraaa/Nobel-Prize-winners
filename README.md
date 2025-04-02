@@ -34,7 +34,7 @@ cd nobel-prize-analysis
 ```
 3.**Install required dependencies**
 ```bash
-   pip install pandas seaborn numpy matplotlib
+pip install pandas seaborn numpy matplotlib
 ```
 4.**Install required dependencies**
 ```bash
